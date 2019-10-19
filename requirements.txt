@@ -1,0 +1,14 @@
+tensorflow-gpu==1.14.0
+six
+numpy==1.16.4
+wheel
+setuptools
+mock
+future>=0.17.1
+matplotlib
+keras_applications
+keras_preprocessing
+keras
+opencv-python
+PILLOW
+IPython
