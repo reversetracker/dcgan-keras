@@ -4,7 +4,7 @@ Using Keras, implemented the face book DCGAN paper.
 The pictures below is the result of this DCGAN trained for the simpsons family.
 
 <h3 align="center">
-  <img src="https://github.com/anuscode/deep-learning/blob/master/dcgan/facebook_dcgan/fb_dcgan_sample.png?raw=true" width="70%", height="70%">
+  <img src="assets/fb_dcgan_cherry_picked_sample.png" width="70%", height="70%">
 </h3>
 
 <br>
