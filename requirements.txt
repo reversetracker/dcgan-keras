@@ -1,6 +1,6 @@
 tensorflow-gpu==1.14.0
 six
-numpy==1.16.4
+numpy==1.22.0
 wheel
 setuptools
 mock
